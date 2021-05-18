@@ -20,4 +20,8 @@ int main(int argc, char const *argv[]) {
   else
     std::cout << b/a << '\n';
   return 0;
+
+}
+float summation(int n){
+  return 0.0;
 }
